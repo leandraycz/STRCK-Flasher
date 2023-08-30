@@ -1,0 +1,18 @@
+C:\Users\radim\source\repos\STRCK-Flasher\STRCK-Flasher\bin\Debug\STRCK-Flasher.exe
+C:\Users\radim\source\repos\STRCK-Flasher\STRCK-Flasher\bin\Debug\STRCK-Flasher.pdb
+C:\Users\radim\source\repos\STRCK-Flasher\STRCK-Flasher\obj\Debug\STRCK-Flasher.csproj.AssemblyReference.cache
+C:\Users\radim\source\repos\STRCK-Flasher\STRCK-Flasher\obj\Debug\STRCK_Flasher.Form1.resources
+C:\Users\radim\source\repos\STRCK-Flasher\STRCK-Flasher\obj\Debug\STRCK_Flasher.Properties.Resources.resources
+C:\Users\radim\source\repos\STRCK-Flasher\STRCK-Flasher\obj\Debug\STRCK-Flasher.csproj.GenerateResource.cache
+C:\Users\radim\source\repos\STRCK-Flasher\STRCK-Flasher\obj\Debug\STRCK-Flasher.csproj.CoreCompileInputs.cache
+C:\Users\radim\source\repos\STRCK-Flasher\STRCK-Flasher\obj\Debug\STRCK-Flasher.exe
+C:\Users\radim\source\repos\STRCK-Flasher\STRCK-Flasher\obj\Debug\STRCK-Flasher.pdb
+E:\Aplikace\Můj software\Lafvin_zelva_program\src\STRCK-Flasher\STRCK-Flasher\bin\Debug\STRCK-Flasher.exe
+E:\Aplikace\Můj software\Lafvin_zelva_program\src\STRCK-Flasher\STRCK-Flasher\bin\Debug\STRCK-Flasher.pdb
+E:\Aplikace\Můj software\Lafvin_zelva_program\src\STRCK-Flasher\STRCK-Flasher\obj\Debug\STRCK-Flasher.csproj.AssemblyReference.cache
+E:\Aplikace\Můj software\Lafvin_zelva_program\src\STRCK-Flasher\STRCK-Flasher\obj\Debug\STRCK_Flasher.Form1.resources
+E:\Aplikace\Můj software\Lafvin_zelva_program\src\STRCK-Flasher\STRCK-Flasher\obj\Debug\STRCK_Flasher.Properties.Resources.resources
+E:\Aplikace\Můj software\Lafvin_zelva_program\src\STRCK-Flasher\STRCK-Flasher\obj\Debug\STRCK-Flasher.csproj.GenerateResource.cache
+E:\Aplikace\Můj software\Lafvin_zelva_program\src\STRCK-Flasher\STRCK-Flasher\obj\Debug\STRCK-Flasher.csproj.CoreCompileInputs.cache
+E:\Aplikace\Můj software\Lafvin_zelva_program\src\STRCK-Flasher\STRCK-Flasher\obj\Debug\STRCK-Flasher.exe
+E:\Aplikace\Můj software\Lafvin_zelva_program\src\STRCK-Flasher\STRCK-Flasher\obj\Debug\STRCK-Flasher.pdb
