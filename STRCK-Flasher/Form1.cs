@@ -53,18 +53,18 @@ namespace STRCK_Flasher
 
             statusLabel.Text = "Flashování";
 
-            string arguments = "-c arduino -p m328p -P " + portsComboBox.Text + " -U flash:w:" + fileNameTextBox.Text + ":a";
+            string avrdude_arguments = "-c arduino -p m328p -P " + portsComboBox.Text + " -U flash:w:" + fileNameTextBox.Text + ":a";
 
             Process avrdude_process = new Process();
 
             avrdude_process.StartInfo.FileName = "avrdude.exe";
-            avrdude_process.StartInfo.Arguments = arguments;
+            avrdude_process.StartInfo.Arguments = avrdude_arguments;
             avrdude_process.Start();
             avrdude_process.WaitForExit();
 
             statusLabel.Text = "Připraveno";
 
-            MessageBox.Show("Flashování proběhlo úspěšně", "STRCK Flasher", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Flashování bylo dokončeno", "STRCK Flasher", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
         }
     }

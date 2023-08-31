@@ -95,8 +95,8 @@
             // statusLabel
             // 
             this.statusLabel.Name = "statusLabel";
-            this.statusLabel.Size = new System.Drawing.Size(118, 17);
-            this.statusLabel.Text = "toolStripStatusLabel1";
+            this.statusLabel.Size = new System.Drawing.Size(66, 17);
+            this.statusLabel.Text = "statusLabel";
             // 
             // button2
             // 
